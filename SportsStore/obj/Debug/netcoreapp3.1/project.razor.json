@@ -10266,7 +10266,7 @@
         }
       },
       {
-        "HashCode": 1403057278,
+        "HashCode": 1677727841,
         "Kind": "ITagHelper",
         "Name": "SportsStore.Infrastructure.PageLinkTagHelper",
         "AssemblyName": "SportsStore",
@@ -10296,6 +10296,16 @@
             "TypeName": "System.String",
             "Metadata": {
               "Common.PropertyName": "PageAction"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-url-values",
+            "TypeName": "System.Collections.Generic.Dictionary<System.String, System.Object>",
+            "IndexerNamePrefix": "page-url-",
+            "IndexerTypeName": "System.Object",
+            "Metadata": {
+              "Common.PropertyName": "PageUrlValues"
             }
           },
           {
@@ -12500,6 +12510,23 @@
         "Metadata": {
           "Runtime.Name": "ITagHelper",
           "Common.TypeName": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper"
+        }
+      },
+      {
+        "HashCode": -2087520721,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__NavigationMenuViewComponentTagHelper",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:navigation-menu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__NavigationMenuViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "NavigationMenu"
         }
       },
       {
