@@ -14510,6 +14510,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
