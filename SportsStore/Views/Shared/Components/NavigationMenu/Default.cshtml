@@ -6,8 +6,10 @@ Home
 
 
 @foreach (string category in Model) {
-    <a class="btn btn-block btn-outline-secondary" asp-action="Index" asp-controller="Home"
-    asp-route-category="@category" asp-route-productPage="1">
-    @category
+    string a = "btn-primary";
+    string b = "btn-outline-secondary";
+    <a class = "btn btn-block @(category == ViewBag.SelectedCategory ? a : b) "
+        asp-action="Index" asp-controller="Home" asp-route-category="@category" asp-route-productPage="1">
+        @category
     </a>
 }
