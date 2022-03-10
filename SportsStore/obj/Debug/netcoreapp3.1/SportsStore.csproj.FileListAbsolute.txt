@@ -67,5 +67,8 @@ C:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\obj\Debug\netcoreapp3
 C:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
 C:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
 C:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
+c:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.AssemblyReference.cache
+c:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+c:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportsStore.styles.css
+c:\Users\Nakaw\Documents\dotnetstuff\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
