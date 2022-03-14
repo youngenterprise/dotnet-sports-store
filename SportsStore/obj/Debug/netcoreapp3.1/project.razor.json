@@ -12530,6 +12530,23 @@
         }
       },
       {
+        "HashCode": -113828252,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__CartSummaryViewComponentTagHelper",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:cart-summary"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__CartSummaryViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "CartSummary"
+        }
+      },
+      {
         "HashCode": 141407075,
         "Kind": "Components.Bind",
         "Name": "Bind",
@@ -14502,6 +14519,11 @@
     {
       "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\CartSummary\\Default.cshtml",
       "FileKind": "mvc"
     },
     {
