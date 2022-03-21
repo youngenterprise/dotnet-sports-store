@@ -14542,6 +14542,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Views\\Order\\Checkout.cshtml",
+      "TargetPath": "Views\\Order\\Checkout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Pages\\_CartLayout.cshtml",
       "TargetPath": "Pages\\_CartLayout.cshtml",
       "FileKind": "mvc"
