@@ -12,6 +12,135 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1331678702,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Routed",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Routed"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Routed"
+        }
+      },
+      {
+        "HashCode": 1841126062,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Routed",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SportsStore.Pages.Admin.Routed"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Routed",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1918861183,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.AdminLayout",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AdminLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.AdminLayout"
+        }
+      },
+      {
+        "HashCode": 1118025645,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.AdminLayout",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SportsStore.Pages.Admin.AdminLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.AdminLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2072261752,
+        "Kind": "Components.ChildContent",
+        "Name": "SportsStore.Pages.Admin.AdminLayout.Body",
+        "AssemblyName": "SportsStore",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "AdminLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "SportsStore.Pages.Admin.AdminLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1881830529,
+        "Kind": "Components.ChildContent",
+        "Name": "SportsStore.Pages.Admin.AdminLayout.Body",
+        "AssemblyName": "SportsStore",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "SportsStore.Pages.Admin.AdminLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "SportsStore.Pages.Admin.AdminLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1680485199,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -12513,23 +12642,6 @@
         }
       },
       {
-        "HashCode": -2087520721,
-        "Kind": "MVC.ViewComponent",
-        "Name": "__Generated__NavigationMenuViewComponentTagHelper",
-        "AssemblyName": "SportsStore",
-        "CaseSensitive": false,
-        "TagMatchingRules": [
-          {
-            "TagName": "vc:navigation-menu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "ITagHelper",
-          "Common.TypeName": "__Generated__NavigationMenuViewComponentTagHelper",
-          "MVC.ViewComponent.Name": "NavigationMenu"
-        }
-      },
-      {
         "HashCode": -113828252,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__CartSummaryViewComponentTagHelper",
@@ -12544,6 +12656,23 @@
           "Runtime.Name": "ITagHelper",
           "Common.TypeName": "__Generated__CartSummaryViewComponentTagHelper",
           "MVC.ViewComponent.Name": "CartSummary"
+        }
+      },
+      {
+        "HashCode": -2087520721,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__NavigationMenuViewComponentTagHelper",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:navigation-menu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__NavigationMenuViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "NavigationMenu"
         }
       },
       {
@@ -14527,6 +14656,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Pages\\Admin\\Routed.razor",
+      "TargetPath": "Pages\\Admin\\Routed.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Pages\\Cart.cshtml",
       "TargetPath": "Pages\\Cart.cshtml",
       "FileKind": "mvc"
@@ -14547,9 +14681,29 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Pages\\Admin\\Index.cshtml",
+      "TargetPath": "Pages\\Admin\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Pages\\_CartLayout.cshtml",
       "TargetPath": "Pages\\_CartLayout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Pages\\Admin\\_Imports.razor",
+      "TargetPath": "Pages\\Admin\\_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Pages\\Completed.cshtml",
+      "TargetPath": "Pages\\Completed.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Pages\\Admin\\AdminLayout.razor",
+      "TargetPath": "Pages\\Admin\\AdminLayout.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\Nakaw\\Documents\\dotnetstuff\\SportsSln\\SportsStore\\Pages\\_ViewStart.cshtml",
