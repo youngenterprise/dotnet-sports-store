@@ -141,39 +141,6 @@
         }
       },
       {
-        "HashCode": 991004888,
-        "Kind": "Components.Component",
-        "Name": "SportsStore.Pages.Admin.Orders",
-        "AssemblyName": "SportsStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Orders"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SportsStore.Pages.Admin.Orders"
-        }
-      },
-      {
-        "HashCode": -1800146988,
-        "Kind": "Components.Component",
-        "Name": "SportsStore.Pages.Admin.Orders",
-        "AssemblyName": "SportsStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SportsStore.Pages.Admin.Orders"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SportsStore.Pages.Admin.Orders",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 404921329,
         "Kind": "Components.Component",
         "Name": "SportsStore.Pages.Admin.Products",
@@ -306,6 +273,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "SportsStore.Pages.Admin.OrderTable",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 991004888,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Orders",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Orders"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Orders"
+        }
+      },
+      {
+        "HashCode": -1800146988,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Orders",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SportsStore.Pages.Admin.Orders"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Orders",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
