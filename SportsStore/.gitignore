@@ -3,3 +3,4 @@
 *.vsix
 .env
 IdentitySeedData.cs
+appsettings.Production.json
